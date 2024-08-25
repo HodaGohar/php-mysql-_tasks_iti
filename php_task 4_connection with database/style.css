@@ -1,0 +1,57 @@
+
+  body{
+    font-family: "DM Serif Text", serif;
+    font-style: italic;
+    background-image: url(./image/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  h1{
+    color: #e0ffcd;
+    text-align: center;
+    font-size: 25px;
+  }
+  form{
+    box-shadow: 0 0 10px rgb(0 0 0/15%);
+   /* margin: 50px; */
+   padding: 30px;
+   
+  }
+  input{
+    box-shadow: 0 0 10px rgb(0 0 0/15%);
+    
+  }
+  p{
+    margin-top: 5px;
+  }
+  a{
+    color:#265a06 ;
+  }
+  /* profile */
+  section{
+    width: 50%;
+    height: 40%;
+    margin: 30px auto;
+  }
+  section .container{
+    box-shadow: 0 0 10px rgb(0 0 0/15%);
+    text-align: center;
+  }
+  .container img{
+    width: 20%;
+    border-radius: 50%;
+    text-align: center;
+    margin: 40px 0;
+   
+  }
+  .container strong{
+    color: red;
+    margin: 10px 0;
+  }
+  .container p{
+    margin: 10px 0;
+    text-align: center;
+  }
+  .container .email{
+    padding-bottom: 30px;
+  }
